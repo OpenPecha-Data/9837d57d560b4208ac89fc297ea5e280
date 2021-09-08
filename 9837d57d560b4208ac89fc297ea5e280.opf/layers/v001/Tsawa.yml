@@ -1,4 +1,16 @@
 id: 5f192b73fdcf476598cdfee209a09a17
 annotation_type: Tsawa
-revision: '00001'
-annotations: {}
+revision: '00003'
+annotations:
+  5e81892547534d608ff388fe69005bd9:
+    span:
+      start: 232
+      end: 708
+    metadata:
+      css_class_name: tibetan-root-text-in-verse
+  2e19dac0df084fccba0313f861dec2b5:
+    span:
+      start: 2027
+      end: 2725
+    metadata:
+      css_class_name: tibetan-root-text
