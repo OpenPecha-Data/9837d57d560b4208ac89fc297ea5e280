@@ -1,4 +1,9 @@
 id: 6b5e5346058d4bf89774f1c494d34a67
 annotation_type: Chapter
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  53d77b3724d843e68b2ab3a6fc49cc5a:
+    span:
+      start: 38
+      end: 79
+    metadata: {}

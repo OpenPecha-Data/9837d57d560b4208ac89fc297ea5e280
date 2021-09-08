@@ -1,4 +1,22 @@
-id: 1a9302cb512c4276b5567ef60b94d6a1
+id: 9f064834f3de414bae104b10dbfe6288
 annotation_type: Citation
-revision: '00001'
-annotations: {}
+revision: 00008
+annotations:
+  b358d258badb418da8a4170975774438:
+    span:
+      start: 82
+      end: 1328
+    metadata:
+      css_class_name: tibetan-citations-in-verse
+  f33c9ef33ab3471ca99be0759eb74646:
+    span:
+      start: 1383
+      end: 1979
+    metadata:
+      css_class_name: tibetan-citations-prose
+  b795211dc9a743078a09a9524f47e3b3:
+    span:
+      start: 2745
+      end: 3565
+    metadata:
+      css_class_name: tibetan-citations

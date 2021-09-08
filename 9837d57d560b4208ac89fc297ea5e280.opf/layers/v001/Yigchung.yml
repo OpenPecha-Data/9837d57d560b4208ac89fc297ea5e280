@@ -1,4 +1,9 @@
 id: 8a9ac1e7b6284b298db9a90c528c28b3
 annotation_type: Yigchung
-revision: '00001'
-annotations: {}
+revision: '00002'
+annotations:
+  ef4a180a12f746e8b06861da99112fd1:
+    span:
+      start: 3566
+      end: 5457
+    metadata: {}
